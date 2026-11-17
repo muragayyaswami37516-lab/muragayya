@@ -1,6 +1,6 @@
 # CP075  BinSense: Smart Waste Monitoring and Collection Route Planner
 ## Team
-Vignesh S Suvarna (1AT24CS251),T Chiru Mounika(1AT24CS235)
+muragayya(1AT24CS124):bhaskar(1AT24CS124)
 ##
 How to run
 python main.py
